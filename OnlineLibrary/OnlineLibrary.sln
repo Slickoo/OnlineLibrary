@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineLibrary.Web", "OnlineLibrary.Web\OnlineLibrary.Web.csproj", "{B8F76323-CF44-409E-B4E1-BCAA8FF45757}"
 EndProject
@@ -56,5 +56,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3E9C81B1-331B-4236-8C79-383D9FA1BF23} = {87FE6622-1CEB-48E6-9C59-6C257A25BA02}
 		{25877A0D-269C-42E0-8295-29CC594E3E30} = {5C4178D6-8538-4CE8-8D22-DF7BD69129D6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24161755-0ECE-4039-95D1-5183042C9F61}
 	EndGlobalSection
 EndGlobal

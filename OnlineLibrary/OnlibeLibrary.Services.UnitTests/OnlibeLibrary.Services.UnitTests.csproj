@@ -74,6 +74,10 @@
     <Compile Include="Concrete_Tests\BookService_Tests\IsBookDuplicateTestClass.cs" />
     <Compile Include="Concrete_Tests\BookService_Tests\IsValidISBNTestClass.cs" />
     <Compile Include="Concrete_Tests\BookService_Tests\FindTestClass.cs" />
+    <Compile Include="Concrete_Tests\Builders\AuthorBuilder.cs" />
+    <Compile Include="Concrete_Tests\Builders\BookBuilder.cs" />
+    <Compile Include="Concrete_Tests\Builders\CategoryBuilder.cs" />
+    <Compile Include="Concrete_Tests\Builders\LibraryBuilder.cs" />
     <Compile Include="Concrete_Tests\CategoryService_Tests\DeleteBookCategoryTestClass.cs" />
     <Compile Include="Concrete_Tests\CategoryService_Tests\DeleteBookSubcategoryTestClass.cs" />
     <Compile Include="Concrete_Tests\CategoryService_Tests\IsCategoryRemovableTestClass.cs" />
