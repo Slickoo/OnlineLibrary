@@ -6,6 +6,11 @@ namespace OnlibeLibrary.Services.UnitTests.Concrete_Tests.Builders
     {
         private Category _category;
 
+        public CategoryBuilder()
+        {
+            _category = new Category();
+        }
+
         public CategoryBuilder WithId(int id)
         {
             _category.Id = id;
